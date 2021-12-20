@@ -13,12 +13,18 @@
 
 For further understanding of project, read the project report attached.<br>
 [CV_Project_Report.pdf](https://github.com/panther97/Self-driving-car-using-behavioral-cloning/files/7742345/CV_Project_Report.pdf)<br>
-Following is the video of car running on a track autonomously.
+For resources such as Demo of car running in virtual environment,model semantics,etc. follow the following link.
+https://drive.google.com/file/d/1cqTQ37J3oo8hfgV2vsYfKQLsgv0v4OID/view?usp=sharing
+<h4>Tech Stack Used:<br>
+1. Python<br>
+2. Keras<br>
+3. Flask<br>
+4. Socketio<br>
+5. Udacity Simulator<h4>
 
-<b>How to run<b>
-1. Run requirements.txt
-2. Run Drive.py
-3. Open the simulator
-4. Click on "Autonomous Mode" in the simulator
-5. Watch the car self-drive :)
-
+<h4>How to run:<br>
+1. Run requirements.txt<br>
+2. Run Drive.py<br>
+3. Open the simulator<br>
+4. Click on "Autonomous Mode" in the simulator<br>
+5. Watch the car self-drive :)<h4>
