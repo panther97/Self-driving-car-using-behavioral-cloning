@@ -1,0 +1,12 @@
+pandas==1.2.4
+Keras==2.4.3
+eventlet==0.33.0
+Flask==1.1.2
+numpy==1.20.1
+matplotlib==3.3.4
+tensorflow==2.3.0
+~pencv_python==4.5.3.56
+gevent_socketio==0.3.6
+imgaug==0.4.0
+Pillow==8.4.0
+scikit_learn==1.0.1
