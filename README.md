@@ -1,5 +1,6 @@
 # Self-driving-car-using-behavioral-cloning
-  The goal of this project is to train a convolutional neural
+
+  <h4>The goal of this project is to train a convolutional neural
   networks based behavioral cloning model to drive a car autonomously.
   This will be done in a simulator provided by Udacity. Various computer
   vision principles were used in the
@@ -9,7 +10,11 @@
   our driving decisions corresponding to the state of the road, such as when
   to turn. The model is then saved and is run in the autonomous/ testing
   mode of the simulator in order to test its performance (on a track that
-  it has never seen before).
+  it has never seen before).<h4>
+  
+<img src ="https://github.com/Rikki407/gifs/blob/main/selfdrivingcar.gif?raw=true" width = "100%">
+
+
 
 For further understanding of project, read the project report attached.<br>
 [CV_Project_Report.pdf](https://github.com/panther97/Self-driving-car-using-behavioral-cloning/files/7742345/CV_Project_Report.pdf)<br>
